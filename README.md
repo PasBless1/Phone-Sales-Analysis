@@ -8,7 +8,7 @@ This repository contains SQL queries and analysis for a phone sales dataset. The
 
 ### **Files Included:**
 
-1. **phone_sales_dataset_full_query.sql:**
+1. **Dataset**
    - A comprehensive SQL script containing various queries to analyze the phone sales dataset.
    - The queries focus on different aspects such as:
      - Product performance (e.g., which phones are selling the most).
