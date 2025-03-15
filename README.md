@@ -1,5 +1,5 @@
 
-### **Phone Sales Dataset Analysis**
+### **Phone Sales Data Analysis**
 
 **Repository Overview:**
 This repository contains SQL queries and analysis for a phone sales dataset. The dataset encompasses detailed information about phone sales, including product details, customer demographics, sales trends, and transaction data. The queries in this repository have been designed to analyze and extract meaningful insights, including top-performing products, regional sales trends, and customer behavior, to assist businesses in making data-driven decisions.
